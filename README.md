@@ -38,6 +38,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
 
+## Python
+
+- Jeff Knupp: [How Python Linters Will Save Your Large Python Project](https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/)
+
 ## Security
 
  - Bruce Schneier: [Why cryptography is harder than it looks](https://www.schneier.com/essays/archives/1997/01/why_cryptography_is.html)
