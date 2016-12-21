@@ -15,7 +15,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Andreessen-Horowitz (et al.): [16 Definitions on the Economics of VC](http://a16z.com/2016/09/11/vc-economics/)
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-
+ - Ben Thompson: [Dollar Shave Club and the Disruption of Everything](https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/)
 ## Computer science
 
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
@@ -45,4 +45,3 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Matthew Green: [A few thoughts on cryptographic engineering](http://blog.cryptographyengineering.com/2014/04/attack-of-week-openssl-heartbleed.html)
  - Elie Bursztein: [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
  - Brian Krebs: [ATM Insert Skimmers: A Closer Look](https://krebsonsecurity.com/2016/11/atm-insert-skimmers-a-closer-look/)
-
