@@ -17,6 +17,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
  - Ben Thompson: [Dollar Shave Club and the Disruption of Everything](https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/)
  - Fred Wilson: [MBA-Mondays: Sales Leads on a Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget/)
+ - Brad Feld: [Feld Thoughts: Board Seat For Sale](http://www.feld.com/archives/2016/12/board-seat-sale.html)
 
 ## Computer science
 
