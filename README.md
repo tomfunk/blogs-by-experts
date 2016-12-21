@@ -58,3 +58,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Elie Bursztein: [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
  - Matt Blaze: [How Law Enforcement Tracks Cellular Phones](http://www.crypto.com/blog/celltapping)
  - Brian Krebs: [ATM Insert Skimmers: A Closer Look](https://krebsonsecurity.com/2016/11/atm-insert-skimmers-a-closer-look/)
+
+ ## User Experience
+
+  - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
