@@ -21,6 +21,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
  - Scott Aaronson: [The 8000th Busy Beaver number eludes ZF set theory](http://www.scottaaronson.com/blog/?p=2725)
 
+
 ## Economics
 
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
@@ -43,3 +44,4 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Bruce Schneier: [Why cryptography is harder than it looks](https://www.schneier.com/essays/archives/1997/01/why_cryptography_is.html)
  - Matthew Green: [A few thoughts on cryptographic engineering](http://blog.cryptographyengineering.com/2014/04/attack-of-week-openssl-heartbleed.html)
  - Elie Bursztein: [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
+ - Matt Blaze: [How Law Enforcement Tracks Cellular Phones](http://www.crypto.com/blog)
