@@ -18,6 +18,9 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Ben Thompson: [Dollar Shave Club and the Disruption of Everything](https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/)
  - Fred Wilson: [MBA-Mondays: Sales Leads on a Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget/)
 
+## Chemistry
+- Derek Lowe: [The Open Source Malaria Project, So Far](http://blogs.sciencemag.org/pipeline/archives/2016/09/16/the-open-source-malaria-project-so-far)
+
 ## Computer science
 
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
