@@ -20,6 +20,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
  - Scott Aaronson: [The 8000th Busy Beaver number eludes ZF set theory](http://www.scottaaronson.com/blog/?p=2725)
+ - Jeff Atwood: [International Backup Awareness Day](https://blog.codinghorror.com/international-backup-awareness-day/)
 
 ## Economics
 
