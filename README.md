@@ -33,6 +33,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Russ Roberts: [The Human Side of Trade](http://russroberts.info/human-side-trade/)
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
+ - Richard Serlin: [The Intuition behind Wallace Neutrality](http://richardhserlin.blogspot.com/2015/07/the-intuition-behind-wallace-neutrality.html)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
  - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
 
