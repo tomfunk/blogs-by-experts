@@ -39,6 +39,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Terence Tao: [Sumfree sets in groups](https://terrytao.wordpress.com/2016/03/11/sumfree-sets-in-groups/)
  - Tim Gowers: [Reflections on the recent cap-set problem](https://gowers.wordpress.com/2016/05/19/reflections-on-the-recent-solution-of-the-cap-set-problem-i/)
 
+## Nutrition
+
+ - L. Amber O'Hearn: [Meat is best for growing brains](http://www.ketotic.org/2015/03/meat-is-best-for-growing-brains.html)
+
 ## Physics
 
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
