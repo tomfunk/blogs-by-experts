@@ -28,6 +28,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Economics
 
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
+ - Richard Serlin: [The Intuition behind Wallace Neutrality](http://richardhserlin.blogspot.com/2015/07/the-intuition-behind-wallace-neutrality.html)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
 
 ## Mathematics
