@@ -27,6 +27,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 ## Economics
 
+ - Russ Roberts: [The Human Side of Trade](https://medium.com/@russroberts/the-human-side-of-trade-7b8e024e7536)
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
 
