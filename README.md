@@ -26,7 +26,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
  - Scott Aaronson: [The 8000th Busy Beaver number eludes ZF set theory](http://www.scottaaronson.com/blog/?p=2725)
- - Dan Luu: [ We saw some really bad Intel CPU bugs in 2015, and we should expect to see more in the future ](http://danluu.com/cpu-bugs/)
+ - Dan Luu: [We saw some really bad Intel CPU bugs in 2015, and we should expect to see more in the future](http://danluu.com/cpu-bugs/)
  - Jeff Atwood: [International Backup Awareness Day](https://blog.codinghorror.com/international-backup-awareness-day/)
 
 ## Economics
@@ -42,7 +42,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Physics
 
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
- - Sean Carroll: Preposterous Universe https://www.preposterousuniverse.com/blog/
+ - Sean Carroll: [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
 
 ## Psychiatry
 
@@ -60,6 +60,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Matt Blaze: [How Law Enforcement Tracks Cellular Phones](http://www.crypto.com/blog/celltapping)
  - Brian Krebs: [ATM Insert Skimmers: A Closer Look](https://krebsonsecurity.com/2016/11/atm-insert-skimmers-a-closer-look/)
 
- ## User Experience
+## User Experience
 
-  - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
+ - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
