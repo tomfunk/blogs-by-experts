@@ -38,6 +38,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Terence Tao: [Sumfree sets in groups](https://terrytao.wordpress.com/2016/03/11/sumfree-sets-in-groups/)
  - Tim Gowers: [Reflections on the recent cap-set problem](https://gowers.wordpress.com/2016/05/19/reflections-on-the-recent-solution-of-the-cap-set-problem-i/)
+ - Gil Kalai: [A Breakthrough by Maryna Viazovska Leading to the Long Awaited Solutions for the Densest Packing Problem in Dimensions 8 and 24](https://gilkalai.wordpress.com/2016/03/23/a-breakthrough-by-maryna-viazovska-lead-to-the-long-awaited-solutions-for-the-densest-packing-problem-in-dimensions-8-and-24/)
 
 ## Physics
 
