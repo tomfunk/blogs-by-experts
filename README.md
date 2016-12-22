@@ -39,13 +39,13 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Terence Tao: [Sumfree sets in groups](https://terrytao.wordpress.com/2016/03/11/sumfree-sets-in-groups/)
  - Tim Gowers: [Reflections on the recent cap-set problem](https://gowers.wordpress.com/2016/05/19/reflections-on-the-recent-solution-of-the-cap-set-problem-i/)
  
-## Popular Science
- - Tim Urban: [Why Procrastinators Procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
-
 ## Physics
 
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
  - Sean Carroll: Preposterous Universe https://www.preposterousuniverse.com/blog/
+
+## Popular Science
+ - Tim Urban: [Why Procrastinators Procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 
 ## Psychiatry
 
